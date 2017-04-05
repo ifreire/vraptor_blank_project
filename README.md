@@ -1,4 +1,6 @@
-# VRaptor blank project
+# VRaptor 4 blank project
+
+This project doesn't use maven.
 
 Config:<br>
 IDE: Eclipse Luna<br>
