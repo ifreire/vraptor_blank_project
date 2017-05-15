@@ -24,6 +24,6 @@ public class IndexController
 
 	@Path("/")
 	public void index() {
-		result.include("variable", "Hello VRaptor Wolrd!");
+		result.include("variable", "Hello VRaptor World!");
 	}
 }
